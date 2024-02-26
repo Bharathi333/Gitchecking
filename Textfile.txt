@@ -1,0 +1,3 @@
+ 1. numeric value(accept).>>>>>>>>>>>> 1.valid input.
+ 2. Alphanumeric (not accept).{>>>>>>>>
+ 3. special character( not accept)>>>>}. 2 invalid input.
