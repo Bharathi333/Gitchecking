@@ -1,0 +1,10 @@
+// Optional member expression
+const person4 = {
+    name: 'Alice',
+  };
+ 
+  const occupation = person4?.occupation;
+ 
+  if (occupation) {
+    console.log(occupation); // undefined
+  }
