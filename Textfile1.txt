@@ -8,3 +8,5 @@ for await (const item of asyncGenerator1()) {
   console.log('Example 1: ${item}');
 }
 })();
+bhhbbh
+,ll,,l
